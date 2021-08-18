@@ -1,4 +1,4 @@
-# AKUApplication
+# akuapp
 
 A new Flutter project.
 
